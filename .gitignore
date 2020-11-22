@@ -79,6 +79,11 @@ DerivedDataCache/*
 # Starter Content Ignored
 
 Content/StarterContent/*
+Content/MS_ConcreteV2/*
+Content/Usefulset/*
+Content/MS_ConcreteV2/*
+
+
 
 VSCode Files
 /.vscode/*
